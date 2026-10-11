@@ -1,0 +1,44 @@
+{
+  "projects": [
+    {
+      "name": "Customer onboarding refresh",
+      "owner": "Avery Chen",
+      "status": "On track",
+      "recentActivity": "Usability review completed; the team is incorporating feedback into the guided setup flow.",
+      "priority": "High",
+      "summary": "Simplify first-time setup so new customers can reach their first successful workflow with fewer support requests."
+    },
+    {
+      "name": "Mobile offline workspace",
+      "owner": "Jordan Patel",
+      "status": "At risk",
+      "recentActivity": "Sync conflict testing found an edge case in reconnect handling; a fix is being validated this week.",
+      "priority": "High",
+      "summary": "Let field teams review and update assigned work without a reliable connection, then safely synchronize changes later."
+    },
+    {
+      "name": "Quarterly reporting templates",
+      "owner": "Morgan Reyes",
+      "status": "On track",
+      "recentActivity": "Finance approved the revised metrics definitions and the first template is ready for stakeholder review.",
+      "priority": "Medium",
+      "summary": "Provide clear, reusable reporting templates that help teams share consistent quarterly progress updates."
+    },
+    {
+      "name": "Knowledge base search tuning",
+      "owner": "Samira Okafor",
+      "status": "Blocked",
+      "recentActivity": "Search relevance work is waiting on access to the anonymized query sample from the data governance team.",
+      "priority": "Medium",
+      "summary": "Improve search result relevance so contributors can find trustworthy internal guidance without repeated manual routing."
+    },
+    {
+      "name": "Accessibility quality checks",
+      "owner": "Taylor Brooks",
+      "status": "On track",
+      "recentActivity": "Keyboard and screen-reader checks were added to the release checklist and the pilot team completed training.",
+      "priority": "Low",
+      "summary": "Make accessibility review a dependable part of everyday delivery by giving contributors practical checks and ownership."
+    }
+  ]
+}
